@@ -5,3 +5,5 @@ try:
         return 'even'
     else:
         return 'odd'
+except:
+    error('string input')
